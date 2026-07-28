@@ -1,23 +1,25 @@
-# Hi, I'm Km Gauri 👋
+# Hi, I'm Gauri 👋
 
-## Data Analyst | Power BI Developer
+## 💼 Data Analyst | Power BI Developer
 
-📍 Sector-62 Noida, India
+Computer Science graduate passionate about transforming data into actionable insights using Excel, SQL, Python, and Power BI. I enjoy building interactive dashboards and solving real-world business problems.
 
-📧 Email: gaurisingh2722@gmail.com
+📍 **Location:** Noida, Uttar Pradesh, India
 
-💼 Open to Data Analyst Internship & Full-Time Opportunities
-### About Me
-I am a Computer Science graduate passionate about Data Analytics and Business Intelligence. I enjoy building interactive dashboards and transforming raw data into meaningful insights.
+💼 **Open to:** Data Analyst Internships | Data Analyst | Power BI Developer
+
+---
 
 ## 🛠️ Skills
 
 - Microsoft Excel
 - SQL (MySQL)
-- Power BI
 - Python (Pandas, NumPy)
+- Power BI
 - Data Cleaning
 - Data Visualization
+
+---
 
 ## 📊 Featured Projects
 
@@ -25,9 +27,11 @@ I am a Computer Science graduate passionate about Data Analytics and Business In
 - 🛒 E-Commerce Sales Dashboard
 - ⚡ EV Charging Analysis Dashboard
 - ⚽ FIFA World Cup Analysis Dashboard
-  
-### Connect With Me
-- LinkedIn: (linkedin.com/in/kmgauri2003)
-- Email: (gaurisingh2722@gmail.com)
 
-📌 Currently looking for Data Analyst Internship and Full-Time Opportunities.
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/kmgauri2003
+- 💻 GitHub: https://github.com/Kmgauri2003
+- 📧 Email: gaurisingh2722@gmail.com
