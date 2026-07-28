@@ -1,4 +1,4 @@
-# Hi, I'm Gauri 👋
+# Hi, I'm Km Gauri 👋
 
 ## Data Analyst | Power BI Developer
 
@@ -20,7 +20,7 @@ I am a Computer Science graduate passionate about Data Analytics and Business In
 - FIFA World Cup Dashboard
 
 ### Connect With Me
-- LinkedIn: (Add your LinkedIn profile)
-- Email: (Add your email)
+- LinkedIn: (linkedin.com/in/kmgauri2003)
+- Email: (gaurisingh2722@gmail.com)
 
 📌 Currently looking for Data Analyst Internship and Full-Time Opportunities.
