@@ -2,9 +2,9 @@
 
 ## Data Analyst | Power BI Developer
 
-📍 Noida, India
+📍 Sector-62 Noida, India
 
-📧 Email: your-email@example.com
+📧 Email: gaurisingh2722@gmail.com
 
 💼 Open to Data Analyst Internship & Full-Time Opportunities
 ### About Me
@@ -24,7 +24,7 @@ I am a Computer Science graduate passionate about Data Analytics and Business In
 - 🎓 Education Loan Analysis Dashboard
 - 🛒 E-Commerce Sales Dashboard
 - ⚡ EV Charging Analysis Dashboard
-- ⚽ FIFA World Cup Analysis Dashboard
+- ⚽ FIFA World Cup Analysis Dashboard
   
 ### Connect With Me
 - LinkedIn: (linkedin.com/in/kmgauri2003)
